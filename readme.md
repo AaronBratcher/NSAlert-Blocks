@@ -3,7 +3,6 @@ This is an example project that uses an objective-c category so that an NSAlert 
 Example call:
 
 	[NSAlert showSheetModalForWindow:self.window
-		WithTitle:@"Allow Sync"
 		  message:@"This is a test message"
 	  informativeText:@"This is some informative text that will be displayed."
 	       alertStyle:NSWarningAlertStyle
